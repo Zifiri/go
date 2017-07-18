@@ -1,2 +1,4 @@
-# go
-Golang
+# Golang
+
+
+Türkçe Kendime Notlar
