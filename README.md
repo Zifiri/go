@@ -1,4 +1,6 @@
 # Golang
 
 
-Türkçe Kendime Notlar
+Go programlama dili ile ilgili kendime örnekler
+
+
